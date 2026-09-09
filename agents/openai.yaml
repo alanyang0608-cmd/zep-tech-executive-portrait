@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zep Tech Executive Portrait"
+  short_description: "保留本人辨识度，制作自然精致、柔光立体的现代科技公司高管肖像"
+  default_prompt: "使用 $zep-tech-executive-portrait，将我提供的人物照片制作成自然精致的科技公司高管肖像。"
